@@ -9,7 +9,7 @@
         <img src="https://forum.chasehistory.net/uploads/monthly_2016_04/tumblr_na3ypn28Oo1qk8bxso1_400.gif.f2903861ba0c6b10838060fee9c0efd9.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" />
         <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=sayo-api.sayo-api??style=for-the-badge&logo=appveyor"></a><br>
-  <a href="https://github.com/sayo-api"><img src="https://cardivo.vercel.app/api?name=sayo&description=Sou um mini dev&image=https://i.ibb.co/30yMJfC/774e257c2a7f.jpg&backgroundColor=%23ecf0f1&instagram=ferdiz_afk&github=FERDIZ-afk&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/sayo-api"><img src="https://cardivo.vercel.app/api?name=sayo&description=Sou um mini dev&image=https://i.ibb.co/30yMJfC/774e257c2a7f.jpg&backgroundColor=%23ecf0f1&instagram=sayo_dev&github=sayo-api&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/sayo-api"><img src="https://cardivo.vercel.app/api?name=Akame&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2NkXeai4UWzd1neL0UqrdtXSD8gmu7S6zQ&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
 
