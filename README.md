@@ -6,7 +6,7 @@
 
   <audio autoplay="autoplay" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
 <p align='center'>
-        <img src="https://forum.chasehistory.net/uploads/monthly_2016_04/tumblr_na3ypn28Oo1qk8bxso1_400.gif.f2903861ba0c6b10838060fee9c0efd9.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" />
+        <img src="https://forum.chasehistory.net/uploads/monthly_2016_04/tumblr_na3ypn28Oo1qk8bxso1_400.gif.f2903861ba0c6b10838060fee9c0efd9.gif" alt="Breno" width="150" class="rounded-circle img-thumbnail" />
         <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=sayo-api.sayo-api??style=for-the-badge&logo=appveyor"></a><br>
   <a href="https://github.com/sayo-api"><img src="https://cardivo.vercel.app/api?name=sayo&description=Sou um mini dev&image=https://i.ibb.co/30yMJfC/774e257c2a7f.jpg&backgroundColor=%23ecf0f1&instagram=sayo_dev&github=sayo-api&pattern=leaf&colorPattern=%23eaeaea" /><a>
