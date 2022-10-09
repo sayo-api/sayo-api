@@ -5,6 +5,6 @@ do
 echo "$ {
 	GREEN
 } iniciando..."
-node geo2.js
+node init.js
 sleep 1
 done
