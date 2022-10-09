@@ -1,1 +1,1 @@
-web: sh iniciar.sh
+web: sh init.sh
