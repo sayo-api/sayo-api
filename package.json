@@ -1,6 +1,6 @@
 {
  "scripts": {
-  "start": "node geo2.js"
+  "start": "node init.js"
  },
  "dependencies": {
   "express": "^4.17.1"
